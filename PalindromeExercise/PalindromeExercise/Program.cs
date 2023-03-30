@@ -6,7 +6,16 @@ namespace PalindromeExercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //string revWord = "";
+            //string word = "racecar";
+
+            //for (int i = word.Length - 1; i >= 0; i--)
+            //{
+            //    revWord += word[i];
+            //}
+
+            //Console.WriteLine(revWord);
+            //Console.WriteLine(((word == revWord) ? true : false));
         }
     }
-}
+}   
